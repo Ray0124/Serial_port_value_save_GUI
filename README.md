@@ -14,7 +14,7 @@ If I have a GUI which can show the trend of data in real time , I will exactlly 
 
 As for this, my structure is below:  
   
-![img](https://github.com/Ray0124/Serial_port_value_save_GUI/blob/master/structure.PNG)   
+![img](https://github.com/Ray0124/Serial_port_value_save_GUI/blob/master/structure2.PNG)   
 
 
 My data buffer(default:100, and you can change by UI) and GUI are below:  
