@@ -1,4 +1,4 @@
-# Serial_port_value_GUI_save  
+# Serial_port_value_save_GUI 
 It's a python+pyqt way to catch serial port value.
 
 
