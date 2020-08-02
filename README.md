@@ -29,3 +29,7 @@ Saving datas will name by count,and they located in the current place.
 Running main.py,and programe will start.  
   
 ![img](https://github.com/Ray0124/Serial_port_value_save_GUI/blob/master/test.gif)  
+
+
+
+PS: In general, the python serial is more slower than the serial of the controller , so I suggest you to set delay function on your controller. 
