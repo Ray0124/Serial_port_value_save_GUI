@@ -4,7 +4,7 @@ It's a python+pyqt way to catch serial port value.
 
 
 Sometimes we need to save the messege from the controller by serial port.  
-For example, the sensor feedback to arduino,and I send the messege fm arduino to computer by serial port: 
+For example, the sensor feedback to arduino,and I send the messege from arduino to computer by serial port: 
   
 ![img](https://github.com/Ray0124/Serial_port_value_save_GUI/blob/master/serial_port.PNG)    
 
