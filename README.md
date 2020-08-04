@@ -32,4 +32,4 @@ Running main.py,and programe will start.
 
 
 
-PS: In general, the python serial is more slower than the serial of the controller , so I suggest you to set delay function on your controller. 
+PS: In general, the python serial is more slower than the serial of the controller , so I suggest you to set delay function on your controller.And make sure your serial datas begin to send before you press start.
