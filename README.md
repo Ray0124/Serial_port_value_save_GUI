@@ -11,6 +11,7 @@ As for catching the data, my structure is below:
 
 I made a fifo data buffer so that I can observe the data stream on the GUI.
 My data buffer(default:100, and you can change by UI) and GUI are below:  
+
 ![img](https://github.com/Ray0124/Serial_port_value_save_GUI/blob/master/data%20buffer.PNG)  
   
 ![img](https://github.com/Ray0124/Serial_port_value_save_GUI/blob/master/GUI.PNG)  
